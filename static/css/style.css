@@ -1,0 +1,55 @@
+.btn{
+    background-color: rgb(102,153,255);
+}
+img.results-img{
+    float: left;
+    height: 100px;
+}
+#inputCanvas{
+    border: 2px solid rgb(102,153,255);
+}
+#footer{
+    margin-top: 100px;
+}
+body {
+      background-color: #ffffff;
+      color: #ac3a3a;
+      font-family: Roboto, sans-serif;
+      margin: 20px;
+}
+
+.palette {
+      width: 400px;
+      height: 50px;
+      padding: 0;
+}
+
+.palette li {
+      display: block;
+      float: left;
+      width: 14%;
+      height: 100%;
+}
+
+.complementaryPalette {
+      width: 400px;
+      height: 50px;
+      padding: 0;
+}
+.complementaryPalette li {
+        display: block;
+        float: left;
+        width: 14%;
+        height: 100%;
+}
+.complementaryHSL {
+        width: 400px;
+        height: 50px;
+        padding: 0;
+}
+.complementaryHSL li {
+        display: block;
+        float: left;
+        width: 14%;
+        height: 100%;
+}
